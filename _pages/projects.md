@@ -8,13 +8,10 @@ redirect_from:
   - /markdown.html
 ---
 
-
-**Friday, June 27, 2018**  
-
+Direct
 ---
-* I will attend the [ <font color="#AAAAFF" size="4.5" style="font-style:italic">2018 American Control Conference</font> ](http://acc2018.a2c2.org/) (ACC 2018) at Wisconsin Center, Milwaukee, USA. Hope to team up for this trip~~
+* The project of National Natural Science Foundation: *consistent security privacy analysis and protection mechanism design for network system*, Project No. 61773257, 2018.01-2018.12
 
-~~**Monday, September 18, 2017**~~
-
+Participate
 ---
-* I'm going to give an oral presentation for our paper on the  [ <font color="#AAAAFF" size="4.5" style="font-style:italic">ICIP 2017</font> ](http://2017.ieeeicip.org/index.asp) at China National Convention Center (CNCC), Beijing.
+* The sino-german international cooperation project of the National Natural Science Foundation of China: *collaborative control and optimization of the Internet of vehicles for privacy protection* (key project of the ministry of information science), 2018.01-2021.12

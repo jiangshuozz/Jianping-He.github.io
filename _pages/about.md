@@ -7,59 +7,51 @@ redirect_from:
   - /about/
   - /about.html
 ---
->I received the B.S. degree in Automation from Southeast University, Nanjing, China, in 2017. Currently, I am a M.S. student with the Key Laboratory of System Control and Information Processing, Shanghai Jiao Tong University. <!--My current research interests include artificial intelligence, pattern recognition, image processing and robotics.--> 
-I have wide research interests mainly including artificial initelligence, image processing, machine learning, patern recognition and robotics. Particularly, I am interested in the theories and algorithms that empower robot to see, think and conduct more like a human by incorporating the techneques of some successful stories of deep learning.  
-
->Previously, I was listed in the first term of Huawei F(X) future scientist program member and enjoyed one-month summer internship in Huawei Nanjing Rearch Institute in 2016. From Oct. 20, 2016 to May 1, 2017, I served as a part-time duty personnel in Joint Stars Technology CO., LTD, Nanjing, where I gained lots of knowledge about industrial standards and engineeing implementation.  
-
->I look forward to starting a meaningful and wonderful Ph.D. period and proceeding the corresponding excercise after my M.S. graduation in 2019. It would be very grateful for your passionate advice~~  
-
-[[go top](https://alanlusun.github.io/)]
+> Jianping He (M’15) is currently an associate professor in the Department of Automation at Shanghai Jiao Tong University. He received the Ph.D. degree in control science and engineering from Zhejiang University, Hangzhou, China, in 2013, and had been a research fellow in the Department of Electrical and Computer Engineering at University of Victoria, Canada, from Dec. 2013 to Mar. 2017. His research interests mainly include the smart sensing and control, security and privacy theory and applications, distributed learning and big data analysis. Dr. He serves as an Associate Editor for the KSII Transactions on Internet and Information Systems. He was also a Guest Editor of the International Journal of Robust and Nonlinear Control, Neurocomputing, and the International Journal of Distributed Senor Networks. He was the winner of Outstanding Thesis Award, Chinese Association of Automation, 2015. He received the best paper award from IEEE WCSP’17, the best conference papers award from IEEE PESGM’17, and the finalist best student paper award from IEEE ICCA’17. He is the recipient of China National Recruitment Program of 1000 Talented Young Scholars.
 
 Award and Honor
 ===  
-*The Excellent League Member of Shanghai Jiao Tong University*, 2018-5.  
+**One Thousand Talents Scheme (青年千人计划)**, Central Organization Department of China, 2018. 
 
 ---
-*[The First Class Award for Undergraduate Excellent Graduation Design Thesis of Universities in Jiangsu Province in 2017](http://www.jsjyt.gov.cn/xxgk/jcms_files/jcms1/web1/site/art/2018/4/11/art_262_9870.html)*, 2018-4.  
+**Best Paper Award**， IEEE International Conference on Wireless Communication and Signal Processing (WCSP), 2017.
 
 ---
-*National Scholarship* for graduate student, 2017-11.  
+**Best Student Paper Finalist**， IEEE International Conference on Control & Automation (ICCA), 2017.
 
 ---
-*Outstanding Undergraduate of Southeast University*, 2017-6.  
+**Best Conference Paper**， IEEE Power & Energy Society General Meeting (PESGM), 2017.
 
 ---
-*Envision future Scholarship*, 2017-6.
+**The winner of Outstanding Thesis Award**, Chinese Association of Automation, 2015.   
 
 ---
-*Provincial First Prize of National Electronic Design Competition (UEDC)*, two times in 2016 and 2015.  
-
----
-*President Scholarship of Southeast University*, 2014.
-
----
-*Merit Student of Southeast University*, 2014.
-
----
-*First Prize of Advanced Mathematics Competition*, 2014.  
-
-[[go top](https://alanlusun.github.io/)]  
+Outstanding reviewer of IEEE Transactions on Control of Network Systems, 2014.
 
 Professional Activity  
 ===
-**Journal Services:**  
-Served to review the manuscripts of Neural Processing Letters, IEEE/CAA Journal of Automatica Sinica.  
+Associate Editor: **KSII Transactions on Internet and Information Systems**, 2015-
 
----  
-**Conference Services:**  
-Served to review the manuscripts of CVPR 2018 Workshop, ICMLA 2018.
+---
+Chief Guest Chair: **Neurocomputing** Special Issue on “Distributed Control and Optimization with Resource-Constrained  Networked Systems," 2016 
 
-[[go top](https://alanlusun.github.io/)] 
+---
+Chief Guest Chair: **International Journal of Robust and Nonlinear Control** Special Issue on “Consensus-based Applications in Networked Systems,” 2015
+
+---
+Guest Editor: **International Journal of Distributed Senor Networks** Special Issue on “Adaptive Sensing in Emerging Sensor Networks,” 2015
+
+---
+TPC Member: IEEE GLOBECOM’14-18, IEEE ICC’14-18, et al.
+
+---
+Journal/Conference Reviewer: IEEE TAC, Automatica, IEEE/ACM TON, IEEE TCNS, IEEE TII, IEEE TMC, Mobihoc, Infocom, CDC, ACC, et al. 
+
+Team Link:
+===
+<http://iwin.sjtu.edu.cn/>  
+<http://www.sensornet.cn/>
+
+[[go top](https://Jianping-He.github.io/)] 
 
 
-For more information  
-===  
-Here is my [old CV](https://alanlusun.github.io/files/my-CV.pdf) which will be updated soon.
-
-[[go top](https://alanlusun.github.io/)]
