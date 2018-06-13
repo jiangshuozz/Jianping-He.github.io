@@ -4,11 +4,11 @@ main:
   - title: "News" 
     url: /my-news/
     
-  - title: "Teaching"
-    url: /teaching/ 
-    
   - title: "Publications"
     url: /publications/
+    
+  - title: "Teaching"
+    url: /teaching/ 
     
   - title: "Projects"
     url: /projects/  
