@@ -1,10 +1,11 @@
 ---
-permalink: /news/
-title: "News"
-excerpt: "My News"
+permalink: /projects/
+title: "Projects"
+excerpt: "My Projects"
 author_profile: true
 redirect_from:
-  - /resume
+  - /md/
+  - /markdown.html
 ---
 
 

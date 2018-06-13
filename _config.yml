@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Changsheng Lu"
-title_separator          : "|"
-name                     : &name "Changsheng Lu"
+title                    : "Jianping He"
+title_separator          : ""
+name                     : &name "Jianping He"
 description              : &description "personal description"
-url                      : https://alanlusun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Jianping-He.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -19,9 +19,9 @@ breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 comments:
-  provider               :  disqus # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               :   # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus: 
-    shortname            : ChangshengLu
+    shortname            : 
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Changsheng Lu <br> 卢长胜"
+  name             : "Jianping He"
   avatar           : "profile.jpg" 
   bio              : "Shanghai Jiao Tong University"
   #location         : "Location"
   employer         :
-  googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=NS-F3TcAAAAJ"
-  email            : "ChangshengLuu@gmail.com"
+  googlescholar    : "http://scholar.google.com/citations?hl=zh-CN&user=uMFWYBoAAAAJ&view_op=list_works&sortby=pubdate"
+  email            : "jphe@sjtu.edu.cn"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "AlanLuSun"
+  github           : "Jianping-He"
   google_plus      :
   keybase          :
   instagram        :
@@ -106,7 +106,7 @@ author:
   tumblr           :
   #twitter          : "replacethistwitterhandle"
   vine             :
-  weibo            : "AlanLuSun"  
+  #weibo            :   
   xing             :
   youtube          :
   wikipedia        :
