@@ -47,7 +47,12 @@ TPC Member: IEEE GLOBECOM’14-18, IEEE ICC’14-18, et al.
 ---
 Journal/Conference Reviewer: IEEE TAC, Automatica, IEEE/ACM TON, IEEE TCNS, IEEE TII, IEEE TMC, Mobihoc, Infocom, CDC, ACC, et al. 
 
-Team Link:
+Contact Information
+===
+Email: jphe@sjtu.edu.cn  
+Telephone: 02134204324
+
+Team Link
 ===
 <http://iwin.sjtu.edu.cn/>  
 <http://www.sensornet.cn/>
