@@ -13,6 +13,7 @@ redirect_from:
 刘&nbsp;&nbsp;&nbsp;&nbsp;聪，上海交通大学， 方向：机器人攻防理论及平台  
 缪&nbsp;&nbsp;&nbsp;&nbsp;洋，上海交通大学， 方向：分布式协同安全充电技术  
 廖文静，上海交通大学， 方向：隐私保护的大数据统计分析  
+[卢长胜](https://github.AlanLuSun.io)，上海交通大学， 方向：模式识别，机器学习，计算机视觉和机器人学
  
 **本科生** \| **Undergradutes**
 
