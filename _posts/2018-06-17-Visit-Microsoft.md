@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 title: Prof. Jianping He and his student had a trip to Beijing
 date: 2018-06-17
