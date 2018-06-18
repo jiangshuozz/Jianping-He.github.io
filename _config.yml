@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jianping He"
+  name             : "Jianping He <br> 何建平 "
   avatar           : "profile.jpg" 
-  bio              : "Shanghai Jiao Tong University"
+  bio              : "Associate Professor <br> Shanghai Jiao Tong University <br> Email: jphe@sjtu.edu.cn"
   #location         : "Location"
   employer         :
   googlescholar    : "http://scholar.google.com/citations?hl=zh-CN&user=uMFWYBoAAAAJ&view_op=list_works&sortby=pubdate"
-  email            : "jphe@sjtu.edu.cn"
+  email            : 
   uri              :
   bitbucket        :
   codepen          :

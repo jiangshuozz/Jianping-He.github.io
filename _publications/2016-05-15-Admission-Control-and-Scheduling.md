@@ -8,5 +8,5 @@ venue: '--'
 #paperurl: ''
 #citation: ''
 ---
-*> In Proc. of IEEE VTC,  2016*  
-*> Z. Wei, **J. He and L. Cai*.
+*In Proc. of IEEE VTC,  2016*  
+*Z. Wei, **J. He** and L. Cai*.

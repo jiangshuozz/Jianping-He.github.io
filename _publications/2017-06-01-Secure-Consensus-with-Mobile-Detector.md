@@ -8,5 +8,5 @@ venue: '--'
 #paperurl: ''
 #citation: ''
 ---
-*> IEEE Transactions on Signal and Information Processing over Networks, to appear, 2017*  
-*>C. Zhao, **J. He and J. Chen*.
+*IEEE Transactions on Signal and Information Processing over Networks, to appear, 2017*  
+*C. Zhao, **J. He** and J. Chen*.

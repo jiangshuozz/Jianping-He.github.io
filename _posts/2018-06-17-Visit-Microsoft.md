@@ -1,5 +1,5 @@
 ---
-title: News
+title: Prof. Jianping He and his student had a trip to Beijing
 date: 2018-06-17
 permalink: /posts/2018-06-17-Visit-Microsoft/
 excerpt: Jianping He, Jinglong Zhang, and Ying Zhang, attended the Workshop on Distributed Control and Multi-agent Systems, and visited Microsoft Research Asia, Beijing, on June 15-16.
