@@ -8,5 +8,5 @@ venue: '--'
 #paperurl: ''
 #citation: ''
 ---
-*> In Proc. of IEEE CDC,  2015*  
-*> **J. He**, C. Zhao, L. Cai, P. Cheng, and L. Shi*.
+*In Proc. of IEEE CDC,  2015*  
+***J. He**, C. Zhao, L. Cai, P. Cheng, and L. Shi*.

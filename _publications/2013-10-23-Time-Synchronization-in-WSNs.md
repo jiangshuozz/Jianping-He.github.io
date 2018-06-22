@@ -8,5 +8,5 @@ venue: '--'
 #paperurl: ''
 #citation: ''
 ---
-*> IEEE Transactions on Automatic Control (Regular paper) [ESI Highly Cited Paper], 2014, 59(3):660-675*  
-*>**J. He**, P. Cheng, L. Shi, J. Chen and Y. Sun*.
+*IEEE Transactions on Automatic Control (Regular paper) [ESI Highly Cited Paper], 2014, 59(3):660-675*  
+***J. He**, P. Cheng, L. Shi, J. Chen and Y. Sun*.

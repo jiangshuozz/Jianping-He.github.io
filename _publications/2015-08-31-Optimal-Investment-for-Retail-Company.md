@@ -8,5 +8,5 @@ venue: '--'
 #paperurl: ''
 #citation: ''
 ---
-*> IEEE Transactions on Industrial Informatics, 2015, 11(5): 1210-1219*  
-*>**J. He**, L. Cai, P. Cheng, and J. Fan*.
+*IEEE Transactions on Industrial Informatics, 2015, 11(5): 1210-1219*  
+***J. He**, L. Cai, P. Cheng, and J. Fan*.

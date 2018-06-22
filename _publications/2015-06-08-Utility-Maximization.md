@@ -8,5 +8,5 @@ venue: '--'
 #paperurl: ''
 #citation: ''
 ---
-*> In Proc. of IEEE ICC, London, UK, 2015*  
-*> Z. Wei, **J. He**, M. Xing, and L. Cai*.
+*In Proc. of IEEE ICC, London, UK, 2015*  
+*Z. Wei, **J. He**, M. Xing, and L. Cai*.

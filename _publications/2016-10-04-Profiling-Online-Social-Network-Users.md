@@ -8,5 +8,5 @@ venue: '--'
 #paperurl: ''
 #citation: ''
 ---
-*> In Proc. of IEEE Globecom, 2016*  
-*> J. Chen, **J. He**, L. Cai, and J. Pan*.
+*In Proc. of IEEE Globecom, 2016*  
+*J. Chen, **J. He**, L. Cai, and J. Pan*.

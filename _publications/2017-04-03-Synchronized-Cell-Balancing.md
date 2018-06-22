@@ -8,5 +8,5 @@ venue: '--'
 #paperurl: ''
 #citation: ''
 ---
-*> In Proc. of IFAC, 2017.* 
-*> H. Li, J. Peng, **J. He**, Z. Huang, and J. Pan*.
+*In Proc. of IFAC, 2017.* 
+*H. Li, J. Peng, **J. He**, Z. Huang, and J. Pan*.
