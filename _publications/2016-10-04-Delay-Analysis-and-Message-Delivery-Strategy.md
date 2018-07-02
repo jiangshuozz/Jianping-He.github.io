@@ -8,5 +8,5 @@ venue: '--'
 #paperurl: ''
 #citation: ''
 ---
-*> In Proc. of Globecom, 2016*  
-*> Y. Ni, **J. He**, L. Cai, and Y. Bo*.
+*In Proc. of Globecom, 2016*  
+*Y. Ni, **J. He**, L. Cai, and Y. Bo*.

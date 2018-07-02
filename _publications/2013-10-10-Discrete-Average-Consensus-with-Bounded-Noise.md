@@ -8,5 +8,5 @@ venue: '--'
 #paperurl: ''
 #citation: ''
 ---
-*> In Proc. of IEEE CDC, Florence, Italy, Dec. 2013*  
-*> M. Zhou. Wang, **J. He**, P. Cheng and J. Chen*.
+*In Proc. of IEEE CDC, Florence, Italy, Dec. 2013*  
+*M. Zhou. Wang, **J. He**, P. Cheng and J. Chen*.

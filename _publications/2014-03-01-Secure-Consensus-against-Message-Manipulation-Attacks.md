@@ -8,5 +8,5 @@ venue: '--'
 #paperurl: ''
 #citation: ''
 ---
-*> In Proc. of IFAC, Cape Town, South Africa, 2014*  
-*> C. Zhao, **J. He**, P. Cheng, and J. Chen*.
+*In Proc. of IFAC, Cape Town, South Africa, 2014*  
+*C. Zhao, **J. He**, P. Cheng, and J. Chen*.

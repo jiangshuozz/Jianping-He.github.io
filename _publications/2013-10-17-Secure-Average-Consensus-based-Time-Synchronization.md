@@ -8,5 +8,5 @@ venue: '--'
 #paperurl: ''
 #citation: ''
 ---
-*> IEEE Transactions on Signal Processing, 2013, 61(24): 6387-6400*  
-*>**J. He**, P. Cheng, L. Shi, and J. Chen*.
+*IEEE Transactions on Signal Processing, 2013, 61(24): 6387-6400*  
+***J. He**, P. Cheng, L. Shi, and J. Chen*.

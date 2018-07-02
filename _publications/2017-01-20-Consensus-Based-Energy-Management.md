@@ -8,5 +8,5 @@ venue: '--'
 #paperurl: ''
 #citation: ''
 ---
-*> IEEE Transactions on Smart Grid [ESI Highly Cited Paper],  2017, 8(9): 2019-2061*  
-*>C. Zhao, **J. He**, P. Cheng and J. Chen*.
+*IEEE Transactions on Smart Grid [ESI Highly Cited Paper],  2017, 8(9): 2019-2061*  
+*C. Zhao, **J. He**, P. Cheng and J. Chen*.

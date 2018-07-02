@@ -8,5 +8,5 @@ venue: '--'
 #paperurl: ''
 #citation: ''
 ---
-*>  In Proc. of IEEE ICIC, Ulsan, Korea, Sept. 16-19, 2009*  
-*> **J. He**, W. Chen, and L. Gao*.
+*In Proc. of IEEE ICIC, Ulsan, Korea, Sept. 16-19, 2009*  
+***J. He**, W. Chen, and L. Gao*.

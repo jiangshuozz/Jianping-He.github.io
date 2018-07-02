@@ -8,5 +8,5 @@ venue: '--'
 #paperurl: ''
 #citation: ''
 ---
-*> IEEE Transactions on Vehicular Technology, 2014, 63(8): 3935-3946*  
-*>**J. He**, P. Cheng, J. Chen, L. Shi, and R. Lu*.
+*IEEE Transactions on Vehicular Technology, 2014, 63(8): 3935-3946*  
+***J. He**, P. Cheng, J. Chen, L. Shi, and R. Lu*.

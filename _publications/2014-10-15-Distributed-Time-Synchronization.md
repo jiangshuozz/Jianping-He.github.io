@@ -8,5 +8,5 @@ venue: '--'
 #paperurl: ''
 #citation: ''
 ---
-*> In Proc. of IEEE CDC, Los Angeles, CA, USA, Dec., 2014*  
-*> **J. He**, X. Duan, P. Cheng, L. Shi, and L. Cai*.
+*In Proc. of IEEE CDC, Los Angeles, CA, USA, Dec., 2014*  
+***J. He**, X. Duan, P. Cheng, L. Shi, and L. Cai*.

@@ -8,5 +8,5 @@ venue: '--'
 #paperurl: ''
 #citation: ''
 ---
-*> IEEE Transactions on Mobile Computing, 2016, 15(8): 1939-1950*  
-*>**J. He**, L. Cai, P. Cheng, and J. Pan*.
+*IEEE Transactions on Mobile Computing, 2016, 15(8): 1939-1950*  
+***J. He**, L. Cai, P. Cheng, and J. Pan*.

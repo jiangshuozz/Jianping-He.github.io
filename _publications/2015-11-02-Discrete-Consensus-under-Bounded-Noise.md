@@ -8,5 +8,5 @@ venue: '--'
 #paperurl: ''
 #citation: ''
 ---
-*> IEEE Transactions on Cybernetics, 2016, 46(2): 2874-2884*  
-*>**J. He**, M. Zhou, P. Cheng, L. Shi, and J. Chen*.
+*IEEE Transactions on Cybernetics, 2016, 46(2): 2874-2884*  
+***J. He**, M. Zhou, P. Cheng, L. Shi, and J. Chen*.

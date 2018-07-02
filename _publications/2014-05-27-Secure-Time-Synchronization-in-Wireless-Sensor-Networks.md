@@ -8,5 +8,5 @@ venue: '--'
 #paperurl: ''
 #citation: ''
 ---
-*> IEEE Transactions on Parallel and Distributed Systems, 2014, 25(4):1055-1065*  
-*>**J. He**, P. Cheng, J. Chen and X. Cao*.
+*IEEE Transactions on Parallel and Distributed Systems, 2014, 25(4):1055-1065*  
+***J. He**, P. Cheng, J. Chen and X. Cao*.

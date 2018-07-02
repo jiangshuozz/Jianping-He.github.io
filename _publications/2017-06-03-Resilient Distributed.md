@@ -8,5 +8,5 @@ venue: '--'
 #paperurl: ''
 #citation: ''
 ---
-*> In Proc. of ICCA (Best Student Paper Finalist), Ohrid, Macedonia, 2017.* 
-*> C. Zhao, **J. He**, and Q. Wang*.
+*In Proc. of ICCA (Best Student Paper Finalist), Ohrid, Macedonia, 2017.* 
+*C. Zhao, **J. He**, and Q. Wang*.

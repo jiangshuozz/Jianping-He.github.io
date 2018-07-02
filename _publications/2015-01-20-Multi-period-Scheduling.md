@@ -8,5 +8,5 @@ venue: '--'
 #paperurl: ''
 #citation: ''
 ---
-*>  IEEE Transactions on Signal Processing, 2015, 63(7): 1651-1663*  
-*>**J. He**, L. Duan, F. Hou, P. Cheng, and J. Chen*.
+*IEEE Transactions on Signal Processing, 2015, 63(7): 1651-1663*  
+***J. He**, L. Duan, F. Hou, P. Cheng, and J. Chen*.

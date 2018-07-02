@@ -8,5 +8,5 @@ venue: '--'
 #paperurl: ''
 #citation: ''
 ---
-*> IEEE Transactions on Industrial Electronics, 2017, 64(6): 5107-5117*  
-*>C. Zhao, **J. He**, P. Cheng and J. Chen*.
+*IEEE Transactions on Industrial Electronics, 2017, 64(6): 5107-5117*  
+*C. Zhao, **J. He**, P. Cheng and J. Chen*.

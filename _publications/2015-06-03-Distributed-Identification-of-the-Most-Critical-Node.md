@@ -8,5 +8,5 @@ venue: '--'
 #paperurl: ''
 #citation: ''
 ---
-*> IEEE Transactions on Signal Processing, 2015, 63(16): 4315-4328*  
-*> H. Liu, X. Cao, **J. He**, P. Cheng, J. Chen, and Y. Sun*.
+*IEEE Transactions on Signal Processing, 2015, 63(16): 4315-4328*  
+*H. Liu, X. Cao, **J. He**, P. Cheng, J. Chen, and Y. Sun*.

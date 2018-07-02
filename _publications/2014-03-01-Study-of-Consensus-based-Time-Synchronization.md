@@ -8,5 +8,5 @@ venue: '--'
 #paperurl: ''
 #citation: ''
 ---
-*> ISA Transactions, 2014, 53: 347-357*  
-*>**J. He**, H. Li, P. Cheng and J. Chen*.
+*ISA Transactions, 2014, 53: 347-357*  
+***J. He**, H. Li, P. Cheng and J. Chen*.

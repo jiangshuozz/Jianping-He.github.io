@@ -8,5 +8,5 @@ venue: '--'
 #paperurl: ''
 #citation: ''
 ---
-*> In Proc. of IEEE Globecom, Atlanta, USA, 2013*  
-*> H. Li, **J. He**, P. Cheng and J. Chen*.
+*In Proc. of IEEE Globecom, Atlanta, USA, 2013*  
+*H. Li, **J. He**, P. Cheng and J. Chen*.

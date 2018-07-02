@@ -8,5 +8,5 @@ venue: '--'
 #paperurl: ''
 #citation: ''
 ---
-*> In Proc. of IEEE CDC-ECC, Orlando, Dec. 11-15, 2011*  
-*> **J. He**, P. Cheng, L. Shi, and J. Chen*.
+*In Proc. of IEEE CDC-ECC, Orlando, Dec. 11-15, 2011*  
+***J. He**, P. Cheng, L. Shi, and J. Chen*.

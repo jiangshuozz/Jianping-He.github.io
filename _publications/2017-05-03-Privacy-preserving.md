@@ -8,5 +8,5 @@ venue: '--'
 #paperurl: ''
 #citation: ''
 ---
-*> In Proc. of PESGM (Best Comference Paper), accepted, 2017.* 
-*> C. Zhao, **J. He**, P. Cheng and J. Chen*.
+*In Proc. of PESGM (Best Comference Paper), accepted, 2017.* 
+*C. Zhao, **J. He**, P. Cheng and J. Chen*.

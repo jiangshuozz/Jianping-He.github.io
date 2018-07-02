@@ -8,5 +8,5 @@ venue: '--'
 #paperurl: ''
 #citation: ''
 ---
-*> In Proc. of IEEE CDC, 2015*  
-*> X. Duan, **J. He**, P. Cheng, Y. Mo, and J. Chen*.
+*In Proc. of IEEE CDC, 2015*  
+*X. Duan, **J. He**, P. Cheng, Y. Mo, and J. Chen*.

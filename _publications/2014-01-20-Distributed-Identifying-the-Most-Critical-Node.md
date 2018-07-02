@@ -8,5 +8,5 @@ venue: '--'
 #paperurl: ''
 #citation: ''
 ---
-*> In Proc. of IFAC, Cape Town, South Africa, 2014*  
-*> H. Liu, X. Cao, **J. He**, P. Cheng, J. Chen, and Y. Sun*.
+*In Proc. of IFAC, Cape Town, South Africa, 2014*  
+*H. Liu, X. Cao, **J. He**, P. Cheng, J. Chen, and Y. Sun*.

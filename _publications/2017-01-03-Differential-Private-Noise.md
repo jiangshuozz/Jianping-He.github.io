@@ -8,5 +8,5 @@ venue: '--'
 #paperurl: ''
 #citation: ''
 ---
-*> In Proc. of ACC, 2017.* 
-*> **J. He** and L. Cai*.
+*In Proc. of ACC, 2017.* 
+***J. He** and L. Cai*.

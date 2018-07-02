@@ -8,5 +8,5 @@ venue: '--'
 #paperurl: ''
 #citation: ''
 ---
-*> In Proc. of IFAC, 2017.* 
-*> X. Wang, **J. He**, P. Cheng and J. Chen*.
+*In Proc. of IFAC, 2017.* 
+*X. Wang, **J. He**, P. Cheng and J. Chen*.

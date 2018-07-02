@@ -8,5 +8,5 @@ venue: '--'
 #paperurl: ''
 #citation: ''
 ---
-*> IEEE Transactions on Automatic Control (Regular paper), 2015, 60(5): 1320-1335*  
-*>**J. He**, Q. Wang, P. Cheng, J. Chen and Y. Sun*.
+*IEEE Transactions on Automatic Control (Regular paper), 2015, 60(5): 1320-1335*  
+***J. He**, Q. Wang, P. Cheng, J. Chen and Y. Sun*.

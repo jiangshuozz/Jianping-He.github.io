@@ -8,5 +8,5 @@ venue: '--'
 #paperurl: ''
 #citation: ''
 ---
-*> In Proc. of IEEE ICCA, Xiamen, Jun. 8-11, 2010*  
-*> **J. He**, Y. Sun, Z. Lin, Q. Qin, and Q. Wang*.
+*In Proc. of IEEE ICCA, Xiamen, Jun. 8-11, 2010*  
+***J. He**, Y. Sun, Z. Lin, Q. Qin, and Q. Wang*.

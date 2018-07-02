@@ -8,5 +8,5 @@ venue: '--'
 #paperurl: ''
 #citation: ''
 ---
-*> IEEETransactions on Vehicular Technology(Corresponding Author), 2016, 65(4):2649-2658*  
-*>M. Xing, **J. He**, and L. Cai*.
+*IEEETransactions on Vehicular Technology(Corresponding Author), 2016, 65(4):2649-2658*  
+*M. Xing, **J. He**, and L. Cai*.

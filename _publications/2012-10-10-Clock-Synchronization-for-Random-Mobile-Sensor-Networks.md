@@ -8,5 +8,5 @@ venue: '--'
 #paperurl: ''
 #citation: ''
 ---
-*> In Proc. of IEEE CDC, Hawaii, Dec. 10-13, 2012*  
-*> **J. He**, P.Cheng, L.Shi, and J.Chen*.
+*In Proc. of IEEE CDC, Hawaii, Dec. 10-13, 2012*  
+***J. He**, P.Cheng, L.Shi, and J.Chen*.

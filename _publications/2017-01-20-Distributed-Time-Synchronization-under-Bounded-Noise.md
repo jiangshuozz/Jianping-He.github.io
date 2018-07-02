@@ -8,5 +8,5 @@ venue: '--'
 #paperurl: ''
 #citation: ''
 ---
-*> Automatica (Regular paper), 2017, 81: 350-358*  
-*>**J. He**, X. Duan, P. Cheng, L. Shi, and L. Cai*.
+*Automatica (Regular paper), 2017, 81: 350-358*  
+***J. He**, X. Duan, P. Cheng, L. Shi, and L. Cai*.
