@@ -1,5 +1,5 @@
 ---
-title: Academic Activity
+title: Academic activity
 date: 2018-07-01
 permalink: /posts/2018-07-01-Yongmin-Zhang-And-Xiaoming-Duan-Visit/
 excerpt: Yongmin Zhang from University of Victoria，Canada，and Xiaoming Duan from UCSB，USA，visit our lab and give talks.
