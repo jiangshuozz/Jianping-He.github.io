@@ -11,5 +11,6 @@ Prof. Jianping He and Prof. Cailian Chen attend the thrid international workshop
 ![image1](/images/post-images/2018-07/2018-07-08-a.jpg)  
 ![image1](/images/post-images/2018-07/2018-07-08-b.jpg)  
 ![image1](/images/post-images/2018-07/2018-07-08-c.jpg)  
-![image1](/images/post-images/2018-07/2018-07-08-d.jpg)
+![image1](/images/post-images/2018-07/2018-07-08-d.jpg)  
+![image1](/images/post-images/2018-07/2018-07-08-e.jpg)
 
