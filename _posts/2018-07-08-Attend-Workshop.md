@@ -1,5 +1,5 @@
 ---
-title:  prof. He and prof Chen attend the BB3CR workshop
+title:  Prof. He and Prof. Chen attend the BB3CR workshop
 date: 2018-07-08
 permalink: /posts/2018-07-08-Attend-Workshop/
 excerpt: Prof. Jianping He and Prof. Cailian Chen attend the thrid international workshop on broadband communications, computing and control research.
