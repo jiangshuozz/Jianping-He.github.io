@@ -11,7 +11,7 @@ redirect_from:
 
 Call for Paper
 ===
-<font color="#4a4aFF" size="4.5" style="font-style:italic">IEEE TAC special issue on "Security	and	Privacy	of Distributed	Algorithms and	Network	Systems".</font> [[PDF](https://jianping-he.github.io/files/CFP_IEEE_TAC.pdf)]
+[<font color="#4a4aFF" size="4.5" style="font-style:italic">IEEE TAC special issue on "Security	and	Privacy	of Distributed	Algorithms and	Network	Systems".</font>](http://www.ieeecss.org/publications/tac/special-issues) [[PDF](https://jianping-he.github.io/files/CFP_IEEE_TAC.pdf)]
 
 
 Award and Honor
