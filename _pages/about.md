@@ -13,6 +13,9 @@ Call for Paper
 ===
 [<font color="#4a4aFF" size="4.5" style="font-style:italic">IEEE TAC special issue on "Security	and	Privacy	of Distributed	Algorithms and	Network	Systems".</font>](http://www.ieeecss.org/publications/tac/special-issues) [[PDF](https://jianping-he.github.io/files/CFP_IEEE_TAC.pdf)]
 
+Technical Note
+===
+Differential Privacy-preserving Noise Adding Mechanism with Its Application on Consensus. [[PDF](https://jianping-he.github.io/files/siam17_dprivacy.pdf)]
 
 Award and Honor
 ===  
