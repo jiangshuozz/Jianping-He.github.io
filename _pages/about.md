@@ -66,6 +66,7 @@ Journal/Conference Reviewer: IEEE TAC, Automatica, IEEE/ACM TON, IEEE TCNS, IEEE
 3）2018-2019年拟招收本科生3-5名。包括本科毕业设计、PRP、莙政等科研训练项目。非常欢迎数学基础好、编程能力强、有意出国的本科生。表现突出者将推荐至美国、加拿大、香港等著名高校（如Harvard、UCSB、Waterloo、UVIC、HKUST）进行交流或继续深造。
   
 <p id = "index"></p>  
+  
 Bio  
 ===    
 His research interests mainly include the smart sensing and control, security and privacy theory and applications, distributed learning and big data analysis. Dr. He serves as an Associate Editor for the KSII Transactions on Internet and Information Systems. He was also a Guest Editor of the International Journal of Robust and Nonlinear Control, Neurocomputing, and the International Journal of Distributed Senor Networks. He was the winner of Outstanding Thesis Award, Chinese Association of Automation, 2015. He received the best paper award from IEEE WCSP’17, the best conference papers award from IEEE PESGM’17, and the finalist best student paper award from IEEE ICCA’17. He is the recipient of China National Recruitment Program of 1000 Talented Young Scholars.
