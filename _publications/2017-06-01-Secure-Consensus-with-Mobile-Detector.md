@@ -8,5 +8,11 @@ venue: '--'
 #paperurl: ''
 #citation: ''
 ---
+
+Journal:
+===
 *IEEE Transactions on Signal and Information Processing over Networks, to appear, 2017*  
+
+Authors: 
+===
 *C. Zhao, **J. He** and J. Chen*.
