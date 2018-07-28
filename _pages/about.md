@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
->Jianping He (M’15) is currently an associate professor in the Department of Automation at Shanghai Jiao Tong University. He received the Ph.D. degree in control science and engineering from Zhejiang University, Hangzhou, China, in 2013, and had been a research fellow in the Department of Electrical and Computer Engineering at University of Victoria, Canada, from Dec. 2013 to Mar. 2017.[Bio](#index)  
+> Jianping He (M’15) is currently an associate professor in the Department of Automation at Shanghai Jiao Tong University. He received the Ph.D. degree in control science and engineering from Zhejiang University, Hangzhou, China, in 2013, and had been a research fellow in the Department of Electrical and Computer Engineering at University of Victoria, Canada, from Dec. 2013 to Mar. 2017.[Bio](#index)  
 
 Call for Paper
 ===
