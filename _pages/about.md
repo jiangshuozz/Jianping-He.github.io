@@ -33,9 +33,6 @@ Award and Honor
 ---
 **The winner of Outstanding Thesis Award**, Chinese Association of Automation, 2015.   
 
----
-Outstanding reviewer of IEEE Transactions on Control of Network Systems, 2014.
-
 Professional Activity  
 ===
 Associate Editor: **KSII Transactions on Internet and Information Systems**, 2015-
@@ -48,13 +45,7 @@ Guest Editor:
 
 - **International Journal of Robust and Nonlinear Control** Special Issue on “Consensus-based Applications in Networked Systems,” 2015
 
-- **International Journal of Distributed Senor Networks** Special Issue on “Adaptive Sensing in Emerging Sensor Networks,” 2015
-
----
-TPC Member: IEEE GLOBECOM’14-18, IEEE ICC’14-18, et al.
-
----
-Journal/Conference Reviewer: IEEE TAC, Automatica, IEEE/ACM TON, IEEE TCNS, IEEE TII, IEEE TMC, Mobihoc, Infocom, CDC, ACC, et al. 
+- **International Journal of Distributed Senor Networks** Special Issue on “Adaptive Sensing in Emerging Sensor Networks,” 2015  
 
 招才引智：
 ===  
