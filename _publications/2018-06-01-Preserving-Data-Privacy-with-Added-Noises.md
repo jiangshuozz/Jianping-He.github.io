@@ -8,7 +8,7 @@ venue: '--'
 #paperurl: ''
 #citation: ''
 ---
-- [Download paper] （https://ieeexplore.ieee.org/abstract/document/8370125/）
+- [Download paper](https://ieeexplore.ieee.org/abstract/document/8370125/)
 
 Journal:
 ===
