@@ -9,7 +9,7 @@ tags:
 
 Prof. Xinping Guan, Prof. Cailian Chen, Prof. Shanying Zhu, Prof. Wenbin Yu and Prof. Jianping He attended 2018 Chinese Control Conference (CCC).  
 ![image1](/images/post-images/2018-07/2018-07-27-a.jpg)
-Prof. Si and Prof. He 
+Prof. Shi and Prof. He 
 ![image1](/images/post-images/2018-07/2018-07-27-b.jpg)
 Prof. Chen,Prof. Bullo and Prof. He   
 ![image1](/images/post-images/2018-07/2018-07-27-c.jpg)
