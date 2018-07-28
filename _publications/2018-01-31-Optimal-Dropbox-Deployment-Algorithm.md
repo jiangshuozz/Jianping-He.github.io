@@ -12,7 +12,7 @@ venue: '--'
 
 Journal:
 ===
-*IEEE Transactions on Mobile Computing, 17(3), 632-625, 2018*  
+*IEEE Transactions on Mobile Computing, 17(3), 632-645, 2018*  
 
 Authors:
 ===
