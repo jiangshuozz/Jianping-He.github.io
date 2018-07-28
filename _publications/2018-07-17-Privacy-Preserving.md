@@ -8,7 +8,7 @@ venue: '--'
 #paperurl: ''
 #citation: ''
 ---
-- [Download paper](https://arxiv.org/abs/1609.06368)
+- [Download paper](https://Jianping-He.github.io/files/Privacy-preserving Average Consensus.pdf)
 
 Journal:
 ===
