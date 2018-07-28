@@ -10,7 +10,7 @@ redirect_from:
 > Jianping He (M’15) is currently an associate professor in the Department of Automation at Shanghai Jiao Tong University. He received the Ph.D. degree in control science and engineering from Zhejiang University, Hangzhou, China, in 2013, and had been a research fellow in the Department of Electrical and Computer Engineering at University of Victoria, Canada, from Dec. 2013 to Mar. 2017.[Bio](#index)  
   
 Call for Paper  
-===  
+=====  
 [<font color="#4a4aFF" size="4.5" style="font-style:italic">IEEE TAC special issue on "Security	and	Privacy	of Distributed	Algorithms and	Network	Systems".</font>](http://www.ieeecss.org/publications/tac/special-issues) [[PDF](https://jianping-he.github.io/files/CFP_IEEE_TAC.pdf)]
 
 招才引智：
