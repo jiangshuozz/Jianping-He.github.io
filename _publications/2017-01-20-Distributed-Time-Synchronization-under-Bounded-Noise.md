@@ -11,7 +11,7 @@ venue: '--'
 
 - [Download paper](https://www.sciencedirect.com/science/article/pii/S0005109817301322)
 
-Conference:
+Journal:
 ===
 *Automatica (Regular paper), 2017*  
 
