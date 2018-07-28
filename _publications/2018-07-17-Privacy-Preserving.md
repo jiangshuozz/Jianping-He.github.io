@@ -10,7 +10,7 @@ venue: '--'
 ---
 - [Download paper](https://arxiv.org/abs/1609.06368)
 
-Coference:
+Journal:
 ===
 *IEEE Transactions on Signal and Information Processing over Networks, accepted, 2018.*  
 
