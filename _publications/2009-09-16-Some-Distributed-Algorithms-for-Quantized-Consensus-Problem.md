@@ -9,8 +9,6 @@ venue: '--'
 #citation: ''
 ---
 
-- [Download paper](https://arxiv.org/abs/1609.06368)
-
 Coference:
 ===
 *In Proc. of IEEE ICIC, Ulsan, Korea, Sept. 16-19, 2009*   
