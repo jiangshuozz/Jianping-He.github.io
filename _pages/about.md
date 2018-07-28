@@ -13,9 +13,14 @@ Call for Paper
 ===  
 [<font color="#4a4aFF" size="4.5" style="font-style:italic">IEEE TAC special issue on "Security	and	Privacy	of Distributed	Algorithms and	Network	Systems".</font>](http://www.ieeecss.org/publications/tac/special-issues) [[PDF](https://jianping-he.github.io/files/CFP_IEEE_TAC.pdf)]
 
-Technical Note
+招才引智：
 ===  
-Differential Privacy-preserving Noise Adding Mechanism with Its Application on Consensus. [[PDF](https://jianping-he.github.io/files/siam17_dprivacy.pdf)]
+
+1）2018-2019年课题组拟招收多名博士后研究员。研究方向包括但不限于工业网络系统、优化与决策、机器学习与智能控制、网络系统安全、车联网大数据等方向。待遇丰厚，享受上海交通大学博士后福利待遇，表现突出者给予额外补贴。欢迎相关学科的优秀青年博士咨询。
+
+2）2018-2019年拟招收硕士研究生2-3名，博士研究生1-2名。研究方向包括但不限于分布式安全隐私理论及应用、分布式学习与智能控制、机器人协同攻防系统及理论。欢迎校内外优秀本科生、研究生加入研究小组。这里将提系统化的科研训练和国际化的平台。
+
+3）2018-2019年拟招收本科生3-5名。包括本科毕业设计、PRP、莙政等科研训练项目。非常欢迎数学基础好、编程能力强、有意出国的本科生。表现突出者将推荐至美国、加拿大、香港等著名高校（如Harvard、UCSB、Waterloo、UVIC、HKUST）进行交流或继续深造。  
 
 Award and Honor
 ===  
@@ -47,14 +52,9 @@ Guest Editor:
 
 - **International Journal of Distributed Senor Networks** Special Issue on “Adaptive Sensing in Emerging Sensor Networks,” 2015  
 
-招才引智：
+Technical Note  
 ===  
-
-1）2018-2019年课题组拟招收多名博士后研究员。研究方向包括但不限于工业网络系统、优化与决策、机器学习与智能控制、网络系统安全、车联网大数据等方向。待遇丰厚，享受上海交通大学博士后福利待遇，表现突出者给予额外补贴。欢迎相关学科的优秀青年博士咨询。
-
-2）2018-2019年拟招收硕士研究生2-3名，博士研究生1-2名。研究方向包括但不限于分布式安全隐私理论及应用、分布式学习与智能控制、机器人协同攻防系统及理论。欢迎校内外优秀本科生、研究生加入研究小组。这里将提系统化的科研训练和国际化的平台。
-
-3）2018-2019年拟招收本科生3-5名。包括本科毕业设计、PRP、莙政等科研训练项目。非常欢迎数学基础好、编程能力强、有意出国的本科生。表现突出者将推荐至美国、加拿大、香港等著名高校（如Harvard、UCSB、Waterloo、UVIC、HKUST）进行交流或继续深造。
+Differential Privacy-preserving Noise Adding Mechanism with Its Application on Consensus. [[PDF](https://jianping-he.github.io/files/siam17_dprivacy.pdf)]  
   
 <p id = "index"></p>  
   
