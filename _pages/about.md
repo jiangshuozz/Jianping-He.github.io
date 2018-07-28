@@ -41,9 +41,11 @@ Professional Activity
 ===
 ---
 >Associate Editor: 
+
 - **KSII Transactions on Internet and Information Systems**, 2015-
 
 >Guest Editor:
+
 - **IEEE Transactions on Automatic Control** special issue on “Security and Privacy of Distributed Algorithms and Network Systems,”2018
 
 - **Neurocomputing** Special Issue on “Distributed Control and Optimization with Resource-Constrained  Networked Systems," 2016 
