@@ -11,7 +11,7 @@ venue: '--'
 - [Download paper](https://ieeexplore.ieee.org/document/7089288/)  
 
 
-Conference:  
+Journal:  
 ===  
 *IEEETransactions on Vehicular Technology(Corresponding Author), 2016, 65(4):2649-2658*  
 
