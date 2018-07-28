@@ -10,7 +10,7 @@ venue: '--'
 ---  
 - [Download paper](https://ieeexplore.ieee.org/document/7387777/)  
 
-Conference:  
+Journal:  
 ===  
 *IEEE Transactions on Smart Grid [ESI Highly Cited Paper],  2017, 8(9): 2019-2061*  
 
