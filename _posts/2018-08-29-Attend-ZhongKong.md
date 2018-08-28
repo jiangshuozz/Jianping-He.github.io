@@ -8,5 +8,5 @@ tags:
 ---
 
 Prof. Jianping He, Prof. Cailian Chen and Prof. Wenbin Dai attend SUPCON(中控).  
-![image1](/images/post-images/2018-08/2018-08-28-a.jpg)  
-![image1](/images/post-images/2018-08/2018-08-28-b.jpg)  
+![image1](/images/post-images/2018-08/2018-8-28-a.jpg)  
+![image1](/images/post-images/2018-08/2018-8-28-b.jpg)  
