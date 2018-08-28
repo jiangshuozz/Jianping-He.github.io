@@ -1,7 +1,7 @@
 ---
 title:  Prof. He, Prof. Chen and Prof. Dai attend SUPCON(中控)
-date: 2018-08-28
-permalink: /posts/2018-07-08-Attend-ZhongKong/
+date: 2018-08-29
+permalink: /posts/2018-08-29-Attend-ZhongKong/
 excerpt: Prof. Jianping He, Prof. Cailian Chen and Prof. Wenbin Dai attend SUPCON(中控).
 tags:
   - News
