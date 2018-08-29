@@ -11,7 +11,7 @@ redirect_from:
 
 ---
 <div align="center">
-<img src="![image1](/images/group/liyushan.png)" height="300px" alt="黎俣杉，上海交通大学， 方向：面向机器人的智能攻击和理论算法" >
+<img src="/images/group/liyushan.png" height="300px" alt="黎俣杉，上海交通大学， 方向：面向机器人的智能攻击和理论算法" >
 </div>
 黎俣杉，上海交通大学， 方向：面向机器人的智能攻击和理论算法  
 马孟洲，上海交通大学， 方向：数据隐私和系统安全  
