@@ -32,7 +32,7 @@ redirect_from:
 [卢长胜](https://AlanLuSun.github.io)，上海交通大学， 方向：模式识别，机器学习，计算机视觉和机器人学  
 周梦婕，浙江大学，硕士（已毕业），单位：华东电力研究院   
 李&nbsp;&nbsp;&nbsp;&nbsp;灏，浙江大学，硕士（已毕业），单位：阿里巴巴  
-段晓明，浙江大学，硕士（已毕业），单位：University of California Santa Barbara，Ph.D.   
+[段晓明](https://xmduan.github.io/index.html)，浙江大学，硕士（已毕业），单位：University of California Santa Barbara，Ph.D.   
 [陈嘉懿](http://cs.uwaterloo.ca/~j524chen)，加拿大维多利亚大学，硕士（已毕业），单位：University of Waterloo，Ph.D.  
 李&nbsp;&nbsp;&nbsp;&nbsp;恒，中南大学，博士（已毕业），单位：中南大学，讲师  
 [赵成成](http://www.sensornet.cn/chengcheng/index.html)，浙江大学，博士在读  
